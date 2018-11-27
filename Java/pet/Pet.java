@@ -1,38 +1,32 @@
-package pet;
+// Name: Mylene Martodihardjo
 
-import java.io.PrintStream;
-import java.util.Scanner;
+import java.io.*;
 
 public class Pet {
+	public static final int NUMBER_OF_CONTESTANTS = 5;
+	public static final int NUMBER_OF_POINTS = 4;
+	public static final int MAX_POINTS = NUMBER_OF_POINTS * 5;
+	public static final int MIN_POINTS = NUMBER_OF_POINTS * 1;
 	
-	Scanner in;
-	PrintStream out;
-	
-	Pet(){
-		out = new PrintStream(System.out);
-		in = new Scanner(System.in);
-	}
-	
-	void start() {
-		int highestPlace = 0;
-		int highestScore = 0;
-		int counter = 1;
-		while (counter<6){
-			Scanner line = new Scanner(in.nextLine()).useDelimiter(" ");
-			int score = 0;
-			while (line.hasNext()){
-				score += line.nextInt();
-			}
-			if (score > highestScore){
-				highestScore = score;
-				highestPlace = counter;
-			}
-		counter++;
-		}
-		out.printf("%d %d", highestPlace, highestScore);
-	}
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-	public static void main(String[] args) {
-		new Pet().start();
-	}
+		int winnerPoints = MIN_POINTS;
+		int winner = 1;
+		
+		for(int i = 0; i<NUMBER_OF_CONTESTANTS; i++){
+			String[] pointsString = br.readLine().split(" ");
+			int totalPoints = 0;
+	
+			for(int k = 0; k<pointsString.length; k++){
+				totalPoints += Integer.parseInt(pointsString[k]);
+			}
+				
+			if (totalPoints>winnerPoints){
+				winnerPoints = totalPoints;
+				winner = i+1;
+			}
+		}
+		System.out.printf("%s %s\n",winner,winnerPoints);
+    }
 }

@@ -1,1 +1,0 @@
-print(sum([int(x[0:len(x)-1])**int(x[len(x)-1]) for x in [input() for x in range(int(input()))]]))
