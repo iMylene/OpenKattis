@@ -7,14 +7,14 @@
 
 [&copy;](https://github.com/rvrheenen/OpenKattis/blob/master/license.txt) Rick van Rheenen
 ## Summary
-#### Problems solved: 28 - [Total: 38.8, Average: 1.35]
-###### Solved in Java: 21 (75.00%) - [Total: 28.5, Average: 1.36]
-###### Solved in Python: 7 (25.00%) - [Total: 9.3, Average: 1.33]
+#### Problems solved: 30 - [Total: 41.3, Average: 1.34]
+###### Solved in Java: 21 (70.00%) - [Total: 28.6, Average: 1.36]
+###### Solved in Python: 9 (30.00%) - [Total: 11.7, Average: 1.30]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
 | [Eligibility ](https://open.kattis.com/problems/eligibility) | Java | 1.6 |
-| [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Java | 1.5 |
+| [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Java | 1.6 |
 | [Modulo ](https://open.kattis.com/problems/modulo) | Java | 1.5 |
 
 ## Problems
@@ -34,13 +34,15 @@
 | [I've Been Everywhere, Man ](https://open.kattis.com/problems/everywhere) | Java | 1.3 |
 | [Kemija ](https://open.kattis.com/problems/kemija08) | Java | 1.4 |
 | [Ladder ](https://open.kattis.com/problems/ladder) | Java | 1.3 |
-| [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Java | 1.5 |
+| [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Java | 1.6 |
 | [Modulo ](https://open.kattis.com/problems/modulo) | Java | 1.5 |
 | [Oddities ](https://open.kattis.com/problems/oddities) | Java | 1.3 |
 | [Pet ](https://open.kattis.com/problems/pet) | Java | 1.3 |
 | [Pizza Crust ](https://open.kattis.com/problems/pizza2) | Python | 1.5 |
 | [Pot ](https://open.kattis.com/problems/pot) | Java | 1.3 |
 | [Ptice ](https://open.kattis.com/problems/ptice) | Java | 1.5 |
+| [Quality-Adjusted Life-Year ](https://open.kattis.com/problems/qaly) | Python | 1.2 |
+| [R2 ](https://open.kattis.com/problems/r2) | Python | 1.2 |
 | [Reversed Binary Numbers ](https://open.kattis.com/problems/reversebinary) | Java | 1.5 |
 | [Seven Wonders ](https://open.kattis.com/problems/sevenwonders) | Python | 1.4 |
 | [Solving for Carrots ](https://open.kattis.com/problems/carrots) | Java | 1.2 |
