@@ -1,10 +1,12 @@
-// Name: Mylene Martodihardjo
+// Assignment: Friday the 13th
+// Created on 29 november 2018
+// @author: Mylene Martodihardjo
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Friday13 {
+public class friday {
 	public static int FRIDAY13TH 	= 1;
 	public static int MIN_DAYS 		= 13;
 	public static int DAYSINWEEK 	= 7;
