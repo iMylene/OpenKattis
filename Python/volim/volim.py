@@ -8,7 +8,6 @@ total_time  = 3*60 + 30
 data        = sys.stdin.readlines()
 person      = int(data[0])
 questions   = range(int(data[1]))
-print(" ")
 for i in questions:
     time   = int(data[i+2].split(" ")[0])
     answer = data[i+2].split(" ")[1]

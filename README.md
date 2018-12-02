@@ -7,15 +7,15 @@
 
 [&copy;](https://github.com/rvrheenen/OpenKattis/blob/master/license.txt) Rick van Rheenen
 ## Summary
-#### Problems solved: 30 - [Total: 41.3, Average: 1.34]
-###### Solved in Java: 21 (70.00%) - [Total: 28.6, Average: 1.36]
-###### Solved in Python: 9 (30.00%) - [Total: 11.7, Average: 1.30]
+#### Problems solved: 32 - [Total: 44.8, Average: 1.37]
+###### Solved in Java: 21 (65.62%) - [Total: 28.6, Average: 1.36]
+###### Solved in Python: 11 (34.38%) - [Total: 15.2, Average: 1.38]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
+| [Friday the 13th ](https://open.kattis.com/problems/friday) | Python | 1.9 |
 | [Eligibility ](https://open.kattis.com/problems/eligibility) | Java | 1.6 |
 | [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Java | 1.6 |
-| [Modulo ](https://open.kattis.com/problems/modulo) | Java | 1.5 |
 
 ## Problems
 #### Solved Problems:
@@ -30,6 +30,7 @@
 | [Dice Cup ](https://open.kattis.com/problems/dicecup) | Java | 1.3 |
 | [Eligibility ](https://open.kattis.com/problems/eligibility) | Java | 1.6 |
 | [FizzBuzz ](https://open.kattis.com/problems/fizzbuzz) | Java | 1.4 |
+| [Friday the 13th ](https://open.kattis.com/problems/friday) | Python | 1.9 |
 | [Hello World! ](https://open.kattis.com/problems/hello) | Java | 1.2 |
 | [I've Been Everywhere, Man ](https://open.kattis.com/problems/everywhere) | Java | 1.3 |
 | [Kemija ](https://open.kattis.com/problems/kemija08) | Java | 1.4 |
@@ -51,10 +52,10 @@
 | [Stuck In A Time Loop ](https://open.kattis.com/problems/timeloop) | Python | 1.2 |
 | [Take Two Stones ](https://open.kattis.com/problems/twostones) | Python | 1.2 |
 | [Trik ](https://open.kattis.com/problems/trik) | Java | 1.4 |
+| [Volim ](https://open.kattis.com/problems/volim) | Python | 1.6 |
 
 #### Unsolved Problems:
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
-| [Friday the 13th ](https://open.kattis.com/problems/friday) | Java | 1.9 |
-| [Fibonacci Words ](https://open.kattis.com/problems/fibonacci) | Java | 4.6 |
+| [Fibonacci Words ](https://open.kattis.com/problems/fibonacci) | Java | 4.7 |
 
