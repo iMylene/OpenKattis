@@ -70,5 +70,6 @@
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
 | [Synchronizing Lists ](https://open.kattis.com/problems/synchronizinglists) | Python | 1.6 |
+| [Ocean's Anti-11 ](https://open.kattis.com/problems/anti11) | Python | 2.9 |
 | [Fibonacci Words ](https://open.kattis.com/problems/fibonacci) | Java | 5.0 |
 
